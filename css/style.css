@@ -1,0 +1,37 @@
+body{
+    font: 20px Arial, sans-serif;
+
+}
+
+.navbar{
+    background-color: #5FB404;
+}
+
+.sobremim{
+    background-color: #505050;
+    color: white;
+}
+
+
+.meutexto{
+    font-size: 30px;
+    
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.linguagens{
+    background-color: #82FA58;
+}
+.contatos{
+    background-color: #BDBDBD;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
